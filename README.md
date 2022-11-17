@@ -12,6 +12,7 @@
 <div align="center">
   <a href="linkedin.com/in/zoe-mundaba-b91053172">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZOEMUNDABA&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoemundaba&layout=compact&langs_count=7&theme=dark"/>
 </div>
 </div>
